@@ -7,11 +7,12 @@ body {
       color: white;
       font-size: 70px;
      }
-#topmenu {
+.top .link {
+          font-family: Helvetica;
           font-size: 18px;
-          position: relative;
-          top: 50%;
-          transform: translateY(-50%);
+          color: white;
+          display: flex;
+          flex-direction: column;
          }
 #mid {
       color: white;
@@ -23,3 +24,12 @@ body {
 p {
   font-size: 14px;
   }
+#footer {
+        color: white;
+        text-align: left;
+        background-color: dimgray;
+        font-size: 11px;
+        }
+a {
+  color: white;
+}
