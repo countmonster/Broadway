@@ -1,4 +1,7 @@
 *
-h1 {
+body {
     text-align: center;
-   }
+    }
+#top {
+      background-image: url("the-flatiron-building.png");
+     }
